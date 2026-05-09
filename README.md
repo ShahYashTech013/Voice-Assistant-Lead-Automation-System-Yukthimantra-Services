@@ -1,79 +1,23 @@
-Voice Assistant + Lead Automation System
+ Voice Assistant + Lead Automation System
 
-AI-powered lead capture, qualification, and follow-up automation system built for Yukthimantra Services
- using n8n, OpenAI, Twilio, Google Sheets, and AI voice workflows.
+AI-powered lead automation system built for [Yukthimantra Services](https://yuktimantraservices.com?utm_source=chatgpt.com) using n8n, OpenAI, Google Sheets, and Twilio integrations.
 
-Overview
+The system captures leads, stores customer data, classifies lead interest using AI, and automates routing and follow-ups. Future enhancements include AI voice calling, WhatsApp automation, RAG-based company knowledge, and conversational voice assistants.
 
-This project automates the complete lead handling process — from capturing customer inquiries to AI-based qualification, automated routing, WhatsApp follow-ups, and future AI voice calling support.
-
-The system is designed to reduce manual work, improve response time, and help businesses manage leads efficiently using AI automation.
-
-Features
-Lead Capture Automation
-Webhook-based lead intake
-Real-time lead processing
-Structured customer data formatting
-AI Lead Qualification
-OpenAI-powered lead analysis
-Automatic interest classification:
-High Intent
-Medium Intent
-Low Intent
-Smart lead routing using workflow logic
-Lead Storage & Tracking
-Google Sheets integration
-Automated lead logging
-Follow-up status tracking
-Automated Workflow Routing
-Conditional automation using Switch logic
-Different actions based on lead quality
-Scalable workflow architecture
-Upcoming Features
-AI Voice Calling Agent
-WhatsApp Automation
-Automated Follow-ups
-RAG-based company knowledge assistant
-Voice Assistant Frontend
-CRM integration
 Tech Stack
-Automation
-n8n
-AI & LLM
-OpenAI API
-Communication
-Twilio (Planned)
-WhatsApp API (Planned)
-Database / Storage
-Google Sheets
-Future AI Stack
-RAG Pipeline
-Vector Database
-AI Voice Agents
-Conversational AI
-Workflow Architecture
 
-Lead Submission → Webhook → Data Formatting → Google Sheets Storage → AI Interest Classification → Conditional Routing → Follow-up Automation
+ n8n
+ OpenAI API
+  Google Sheets
+  Twilio (planned)
+ RAG & AI Voice Agents (planned)
 
-Use Cases
-AI-powered lead management
-Customer support automation
-Sales follow-up automation
-Voice-based AI assistants
-Business inquiry automation
-AI call handling systems
-Current Status
-Completed
-Webhook lead intake
-Data formatting workflow
-Google Sheets integration
-AI lead classification
-Conditional routing logic
-In Progress
-WhatsApp integration
-AI phone calling system
-RAG implementation
-Voice assistant frontend
-Objective
+ Features
 
-The goal of this project is to build an intelligent AI assistant that not only answers customer queries but also captures leads, performs automated follow-ups, and helps businesses improve conversion rates using AI-driven automation.
+ Lead Capture Automation
+  AI Lead Qualification
+ Automated Routing
+  Follow-up Workflows
+ AI Voice Assistant (upcoming)
+
+Built to reduce manual work and automate customer engagement using AI.
