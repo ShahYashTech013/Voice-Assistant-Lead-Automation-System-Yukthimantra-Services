@@ -1,0 +1,2 @@
+# Voice-Assistant-Lead-Automation-System-Yukthimantra-Services
+AI-powered Voice Assistant &amp; Lead Automation System for [Yukthimantra Services](https://yuktimantraservices.com?utm_source=chatgpt.com) using n8n, OpenAI, and Google Sheets. Automates lead capture, AI-based lead qualification, routing, and follow-ups with future support for AI calling, WhatsApp automation, and RAG-powered customer interaction.
